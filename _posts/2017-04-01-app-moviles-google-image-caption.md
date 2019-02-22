@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Curso online (Apps.Moviles)"
-image: https://Eduardo-Cabrera.github.io/images/activate.jpg
+image: {{ site.url }}/images/activate.jpg
 
 categories:
   - Titulos
