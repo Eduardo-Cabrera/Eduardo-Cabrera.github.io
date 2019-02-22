@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Curso online (Apps.Moviles)"
-image: {{ site.url }}/images/activate.jpg
+image: {{ site.url }}/images/{{ activate.jpg }}"
 
 categories:
   - Titulos
