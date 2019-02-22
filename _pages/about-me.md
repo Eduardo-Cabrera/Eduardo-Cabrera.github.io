@@ -3,7 +3,6 @@ layout: about-me
 title: Eduardo Cabrera 
 description: "Entusiasta "
 permalink: /about-me.html
-image: https://Eduardo-Cabrera.github.io/images/foto-edu.png
 ---
 # <span style="color:white">**Eduardo Cabrera** </span>
 
@@ -28,7 +27,7 @@ de  posibles destinos que siguen esperando, latentes, mientras yo giro el timón
  
  </div>
 
-<span style="color:white">Al final de cada publicación existe un apartado de comentarios y tambien pongo a tu disposición, este [**formulario de contacto**](https://eduardo-cabrera.github.io/contact.html)</span>
+<span style="color:white">Al final de cada publicación existe un apartado de comentarios y tambien pongo a tu disposición, este [**formulario de contacto**]({{site.url}}/contact/{{contact.html}})</span>
 
 
 <hr />

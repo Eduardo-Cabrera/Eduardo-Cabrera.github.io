@@ -9,6 +9,7 @@ categories:
 tags:
   - Eduardo
   - Manipulación
+  - Cursos
 ---
 <a name="inicio-articulo">
   <figure style="width: 70%" class="align-center">
