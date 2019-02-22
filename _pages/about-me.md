@@ -16,8 +16,7 @@ div,span{
 </style>
 
 <div>
-Sin dudarlo, voy al encuentro de mi propio " Rosebud ". Quizas no sea uno, sino una infinidad
-de  posibles destinos que siguen esperando, latentes, mientras yo giro el timón hacia otros puertos. No estarás de acuerdo, pero yo desconozco profesión alguna que pueda definir ni tan siquiera muchas de nuestras cualidades. Lo único que me parece auténticamente relevante, es seguir perseverando como aprendiz de todo.
+Sin dudarlo, voy al encuentro de mi propio " Rosebud ". Quizas no sea solo uno, sino una infinidad de posibles destinos que siguen esperando latentes, mientras navego rumbo a otros puertos. No estarás de acuerdo, pero yo desconozco profesión alguna que pueda definir todas  nuestras cualidades. Lo único que me parece auténticamente relevante, es seguir perseverando como aprendiz de todo.
 
 
 <figure style="width: 30%" class="align-left">

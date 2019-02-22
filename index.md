@@ -8,14 +8,14 @@ layout: home
   </figure> 
 
 
-<span>**Ciudadano  Kane**  es  un  proyecto de Eduardo Cabrera para la divulgación de todo tipo de contenidos. Su diseño aborda la temática de la película CITIZEN KANE para que sirva de inspiración y como homenaje al caracter, talento y sensibilidad de Orson Wells.</span>
+<span>**Ciudadano Kane**  es  un  proyecto de Eduardo Cabrera para la divulgación de todo tipo de contenidos. Su diseño aborda la temática de la película CITIZEN KANE para que sirva de inspiración y como homenaje al caracter, talento y sensibilidad de Orson Wells.</span>
 
 
 
 
-<span>para quien no haya visto aún esta genial producción,aqui podeis  [**Ver la película completa (Citizen Kane)**](https://eduardo-cabrera.github.io/La-pelicula-Ciudadano-kane/)</span>
+<span>Para quien no haya visto aún esta genial producción, aqui podeis  [**Ver la película completa (Citizen Kane)**]({{site.url}}/La-pelicula-Ciudadano-kane.html))</span>
 
-<span>Al final de cada publicación existe un apartado de comentarios y tambien pongo a tu disposición, este [**formulario de contacto**](https://eduardo-cabrera.github.io/contact.html)</span>
+<span>Al final de cada publicación existe un apartado de comentarios y tambien pongo a tu disposición, este [**formulario de contacto**]({{site.url}}/contact.html))</span>
 
 <hr />
  

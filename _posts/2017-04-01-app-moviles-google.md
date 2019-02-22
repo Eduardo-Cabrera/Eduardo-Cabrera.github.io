@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Curso online (Apps.Moviles)"
-image: "{{ site.url }}/images/{{ activate.jpg }}"
+image: https://Eduardo-Cabrera.github.io/images/activate.jpg
 
 categories:
   - Titulos
@@ -31,7 +31,7 @@ div {
 }
 </style>
 
-<span style="color:blue"> **Google activate** es un proyecto de Google donde puedes adquirir conocimientos del sector digital y desarrollar nuevas habilidades. **Enterate ya !**</span>
+<span style="color:blue"> **Google activate** es un proyecto de Google donde puedes adquirir conocimientos del sector digital y desarrollar nuevas habilidades. La siguiente imagen muestra mi certificación en un de estos cursos. **Actívate ya !**</span>
 
   
 
