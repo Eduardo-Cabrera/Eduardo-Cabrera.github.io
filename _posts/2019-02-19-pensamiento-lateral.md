@@ -114,8 +114,8 @@ El pensamiento lateral tiene como función la liberación del efecto restrictivo
  Aunque este MOOC ya se realizó, si te inscribes podrás acceder a los contenidos más importantes y a los vídeos aunque posiblemente tengas que consultar cuando estará disponible una nueva edición para que puedas inscribirte y obtengas la experiencia completa de un MOOC de Miríadax con su certificación incluida.
 
  
-**Te dejo la dirección aquí** [miriada-x Pensamiento lateral](https://miriadax.net/web/creatividad-y-pensamiento-lateral) para decidas si te interesa.
-{: .notice}
+**Te dejo la dirección aquí** [miriada-x Pensamiento lateral](https://miriadax.net/web/creatividad-y-pensamiento-lateral) para decidas si te interesa...
+{: .notice : style background-color:blue}
 
 
 <div>

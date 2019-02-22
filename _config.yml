@@ -57,8 +57,9 @@ linkedin:          e-cabrera-blazquez
 #behance:           username
 
 # Gems
-gems:
+plugins:
   - jekyll-feed
+gems:
   - jekyll-sitemap
   - jekyll-gist
 

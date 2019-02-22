@@ -535,7 +535,7 @@ ul.top-links-gris {
 
 .edu2 {
   text-align: left;
-  margin-top: 40px;
+  margin-top: 0px;
   padding: 25px 40px 25px 40px;
   width: 100%;
   margin: 0 auto;
@@ -546,8 +546,7 @@ ul.top-links-gris {
     color: lighten($black, 27.8431);
     &:after {
       position: absolute;
-      left: auto;
-      top: auto;
+      
       -webkit-transform: none;
       -moz-transform: none;
       -ms-transform: none;
