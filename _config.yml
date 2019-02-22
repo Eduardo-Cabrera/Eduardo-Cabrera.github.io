@@ -57,11 +57,12 @@ linkedin:          e-cabrera-blazquez
 #behance:           username
 
 # Gems
-plugins:
-  - jekyll-feed
 gems:
+  - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
+
+
 
 # Exclude list
 include: [_pages]
