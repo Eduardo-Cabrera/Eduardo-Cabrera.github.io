@@ -27,7 +27,7 @@ de  posibles destinos que siguen esperando, latentes, mientras yo giro el timón
  
  </div>
 
-<span style="color:white">Al final de cada publicación existe un apartado de comentarios y tambien pongo a tu disposición, este [**formulario de contacto**]({{site.url}}/contact/{{contact.html}})</span>
+<span style="color:white">Al final de cada publicación existe un apartado de comentarios y tambien pongo a tu disposición, este [**formulario de contacto**]({{site.url}}/contact.html)</span>
 
 
 <hr />
