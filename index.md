@@ -8,7 +8,7 @@ layout: home
   </figure> 
 
 
-<span>**Ciudadano Kane**  es  un  proyecto de Eduardo Cabrera para la divulgación de todo tipo de contenidos. Su diseño aborda la temática de la película CITIZEN KANE para que sirva de inspiración y como homenaje al caracter, talento y sensibilidad de Orson Wells.</span>
+<span>**Ciudadano Kane**  es  un  proyecto de Eduardo Cabrera para la divulgación de todo tipo de contenidos. Su diseño aborda la temática de la película CITIZEN KANE para que sirva de inspiración y como homenaje al caracter, talento y sensibilidad de Orson Welles.</span>
 
 
 
