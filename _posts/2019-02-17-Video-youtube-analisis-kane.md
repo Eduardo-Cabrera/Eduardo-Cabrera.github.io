@@ -9,7 +9,7 @@ categories:
 
 tags:
   - videos
-  - Orson Wells
+  - Orson Welles
  
 ---
 <a name="inicio-articulo">
@@ -17,7 +17,7 @@ tags:
   <img src="https://eduardo-cabrera.github.io/images/separador.png" alt="">
   </figure> 
 
-<span style="color:green"> **Analisis: El Ciudadano, de Orson Wells"** </span>
+<span style="color:green"> **Analisis: El Ciudadano, de Orson Welles"** </span>
 
 <style>
 div {
@@ -34,7 +34,7 @@ Un video que analiza algunos aspectos técnicos como la extructura arriesgada de
 
  <br/>
 
-No dejes de ver "la emisión del pánico" por Orson Wells.El episodio es famoso por demostrar el poder de los medios de comunicación, ya  que causó el pánico en su audiencia que se asustaron por la supuesta invasión de extraterrestres.
+No dejes de ver "la emisión del pánico" por Orson Welles.El episodio es famoso por demostrar el poder de los medios de comunicación, ya  que causó el pánico en su audiencia que se asustaron por la supuesta invasión de extraterrestres.
 
  <br/>
 
