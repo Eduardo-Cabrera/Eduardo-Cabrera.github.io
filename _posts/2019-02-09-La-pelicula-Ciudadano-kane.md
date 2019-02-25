@@ -17,7 +17,7 @@ tags:
 ---
 <a name="inicio-articulo">
 <figure style="width: 70%" class="align-center">
-  <img src="images/separador.png" alt="">
+  <img src="https://eduardo-cabrera.github.io/images/separador.png" alt="">
   </figure> 
 
 
@@ -31,7 +31,7 @@ div {
 </style>
 
 <figure style="width: 30%" class="align-right">
- <img src="images/Citizen_Kane_poster.jpg" alt="">
+ <img src="https://eduardo-cabrera.github.io/images/Citizen_Kane_poster.jpg" alt="">
   <figcaption>CITIZEN KANE</figcaption>
 </figure> 
 

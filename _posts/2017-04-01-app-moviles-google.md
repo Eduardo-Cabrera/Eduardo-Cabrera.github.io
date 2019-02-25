@@ -15,7 +15,7 @@ tags:
 
 <a name="inicio-articulo">
  <figure style="width: 70%" class="align-center">
-  <img src="images/separador.png" alt="">
+  <img src="https://eduardo-cabrera.github.io/images/separador.png" alt="">
   </figure> 
 
 

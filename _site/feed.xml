@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-25T21:20:52+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ciudadano Kane</title><subtitle>Rosebud</subtitle><entry><title type="html">Giordano Bruno</title><link href="http://localhost:4000/Giordano-Bruno/" rel="alternate" type="text/html" title="Giordano Bruno" /><published>2019-02-24T00:00:00+01:00</published><updated>2019-02-24T00:00:00+01:00</updated><id>http://localhost:4000/Giordano-Bruno</id><content type="html" xml:base="http://localhost:4000/Giordano-Bruno/">&lt;p&gt;&lt;a name=&quot;inicio-articulo&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-25T21:47:55+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ciudadano Kane</title><subtitle>Rosebud</subtitle><entry><title type="html">Giordano Bruno</title><link href="http://localhost:4000/Giordano-Bruno/" rel="alternate" type="text/html" title="Giordano Bruno" /><published>2019-02-24T00:00:00+01:00</published><updated>2019-02-24T00:00:00+01:00</updated><id>http://localhost:4000/Giordano-Bruno</id><content type="html" xml:base="http://localhost:4000/Giordano-Bruno/">&lt;p&gt;&lt;a name=&quot;inicio-articulo&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;figure style=&quot;width: 70%&quot; class=&quot;align-center&quot;&gt;
   &lt;img src=&quot;/images/separador.png&quot; alt=&quot;&quot; /&gt;
   &lt;/figure&gt;
@@ -85,7 +85,7 @@ que yo al recibirla.&lt;/p&gt;
 Giordano Bruno&lt;/p&gt;
 &lt;/blockquote&gt;</content><author><name></name></author><category term="Personajes" /><category term="Pensamiento" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/bruno-0.png" /></entry><entry><title type="html">Pensamiento Lateral</title><link href="http://localhost:4000/pensamiento-lateral/" rel="alternate" type="text/html" title="Pensamiento Lateral" /><published>2019-02-19T00:00:00+01:00</published><updated>2019-02-19T00:00:00+01:00</updated><id>http://localhost:4000/pensamiento-lateral</id><content type="html" xml:base="http://localhost:4000/pensamiento-lateral/">&lt;p&gt;&lt;a name=&quot;inicio-articulo&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;figure style=&quot;width: 70%&quot; class=&quot;align-center&quot;&gt;
-  &lt;img src=&quot;images/separador.png&quot; alt=&quot;&quot; /&gt;
+   &lt;img src=&quot;https://eduardo-cabrera.github.io/images/separador.png&quot; alt=&quot;&quot; /&gt;
   &lt;/figure&gt;
 
 &lt;p&gt;&lt;span style=&quot;color:green&quot;&gt; &lt;strong&gt;Pensamiento Lateral&lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
@@ -181,7 +181,7 @@ div {
  
 &lt;/div&gt;</content><author><name></name></author><category term="Eduardo" /><category term="Pensamiento" /><category term="Cursos" /><summary type="html">Pensamiento Lateral</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/pensamiento-lateral.png" /></entry><entry><title type="html">Analisis de Ciudadano Kane</title><link href="http://localhost:4000/Video-youtube-analisis-kane/" rel="alternate" type="text/html" title="Analisis de Ciudadano Kane" /><published>2019-02-17T00:00:00+01:00</published><updated>2019-02-17T00:00:00+01:00</updated><id>http://localhost:4000/Video-youtube-analisis-kane</id><content type="html" xml:base="http://localhost:4000/Video-youtube-analisis-kane/">&lt;p&gt;&lt;a name=&quot;inicio-articulo&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;figure style=&quot;width: 70%&quot; class=&quot;align-center&quot;&gt;
-  &lt;img src=&quot;images/separador.png&quot; alt=&quot;&quot; /&gt;
+   &lt;img src=&quot;https://eduardo-cabrera.github.io/images/separador.png&quot; alt=&quot;&quot; /&gt;
   &lt;/figure&gt;
 
 &lt;p&gt;&lt;span style=&quot;color:green&quot;&gt; &lt;strong&gt;Analisis: El Ciudadano, de Orson Welles”&lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
@@ -210,7 +210,7 @@ div {
  
 &lt;/div&gt;</content><author><name></name></author><category term="videos" /><category term="Orson Welles" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/manipulacion.png" /></entry><entry><title type="html">La guerra de los mundos</title><link href="http://localhost:4000/Video-youtube-orson-wells/" rel="alternate" type="text/html" title="La guerra de los mundos " /><published>2019-02-11T00:00:00+01:00</published><updated>2019-02-11T00:00:00+01:00</updated><id>http://localhost:4000/Video-youtube-orson-wells</id><content type="html" xml:base="http://localhost:4000/Video-youtube-orson-wells/">&lt;p&gt;&lt;a name=&quot;inicio-articulo&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;figure style=&quot;width: 70%&quot; class=&quot;align-center&quot;&gt;
-  &lt;img src=&quot;images/separador.png&quot; alt=&quot;&quot; /&gt;
+  &lt;img src=&quot;https://eduardo-cabrera.github.io/images/separador.png&quot; alt=&quot;&quot; /&gt; 
   &lt;/figure&gt;
 
 &lt;p&gt;&lt;span style=&quot;color:green&quot;&gt; &lt;strong&gt;La emisión del Pánico&lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
@@ -236,7 +236,7 @@ div {
  
 &lt;/div&gt;</content><author><name></name></author><category term="videos" /><category term="Orson Welles" /><category term="Documentales" /><category term="Medios de comunicación" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/orson-welles.jpg" /></entry><entry><title type="html">CITIZEN KANE CIUDADANO KANE</title><link href="http://localhost:4000/La-pelicula-Ciudadano-kane/" rel="alternate" type="text/html" title="CITIZEN KANE CIUDADANO KANE" /><published>2019-02-09T00:00:00+01:00</published><updated>2019-02-09T00:00:00+01:00</updated><id>http://localhost:4000/La-pelicula-Ciudadano-kane</id><content type="html" xml:base="http://localhost:4000/La-pelicula-Ciudadano-kane/">&lt;p&gt;&lt;a name=&quot;inicio-articulo&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;figure style=&quot;width: 70%&quot; class=&quot;align-center&quot;&gt;
-  &lt;img src=&quot;images/separador.png&quot; alt=&quot;&quot; /&gt;
+  &lt;img src=&quot;https://eduardo-cabrera.github.io/images/separador.png&quot; alt=&quot;&quot; /&gt;
   &lt;/figure&gt;
 
 &lt;p&gt;&lt;span style=&quot;color:green&quot;&gt; &lt;strong&gt;Ver Pelicula Ciudadano Kane&lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
@@ -249,7 +249,7 @@ div {
 &lt;/style&gt;
 
 &lt;figure style=&quot;width: 30%&quot; class=&quot;align-right&quot;&gt;
- &lt;img src=&quot;images/Citizen_Kane_poster.jpg&quot; alt=&quot;&quot; /&gt;
+ &lt;img src=&quot;https://eduardo-cabrera.github.io/images/Citizen_Kane_poster.jpg&quot; alt=&quot;&quot; /&gt;
   &lt;figcaption&gt;CITIZEN KANE&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -277,7 +277,7 @@ para cualquier finalidad, incluso comercial.&lt;/p&gt;
  
 &lt;/div&gt;</content><author><name></name></author><category term="videos" /><category term="Peliculas" /><category term="Orson Welles" /><category term="Cine" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/Citizen_Kane_poster.jpg" /></entry><entry><title type="html">Curso online google activate de Eduardo Cabrera Blázquez</title><link href="http://localhost:4000/app-moviles-google/" rel="alternate" type="text/html" title="Curso online google activate de Eduardo Cabrera Blázquez" /><published>2017-04-01T00:00:00+02:00</published><updated>2017-04-01T00:00:00+02:00</updated><id>http://localhost:4000/app-moviles-google</id><content type="html" xml:base="http://localhost:4000/app-moviles-google/">&lt;p&gt;&lt;a name=&quot;inicio-articulo&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;figure style=&quot;width: 70%&quot; class=&quot;align-center&quot;&gt;
-  &lt;img src=&quot;images/separador.png&quot; alt=&quot;&quot; /&gt;
+  &lt;img src=&quot;https://eduardo-cabrera.github.io/images/separador.png&quot; alt=&quot;&quot; /&gt;
   &lt;/figure&gt;
 
 &lt;h1 style=&quot;color:red;  text-align: center;&quot; id=&quot;google-activate&quot;&gt;Google Activate&lt;/h1&gt;
