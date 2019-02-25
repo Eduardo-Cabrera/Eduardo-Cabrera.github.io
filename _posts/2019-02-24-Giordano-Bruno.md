@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Giordano Bruno"
+description: "Articulo de Eduardo Cabrera Blázquez giordano bruno"
+image: images/activate.jpg
 image: images/bruno-0.png
 
 

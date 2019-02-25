@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "CITIZEN KANE"
+title: "CITIZEN KANE CIUDADANO KANE"
+description: "Articulo de Eduardo Cabrera Blázquez ciudadano kane"
+image: images/activate.jpg
 image: images/Citizen_Kane_poster.jpg
 categories:
   - videos

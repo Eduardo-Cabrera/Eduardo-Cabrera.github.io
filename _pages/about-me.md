@@ -1,7 +1,7 @@
 ---
 layout: about-me
-title: Eduardo Cabrera 
-description: "Entusiasta "
+title: About Eduardo Cabrera Blázquez
+description: "About me Eduardo Cabrera Blázquez "
 permalink: /about-me.html
 ---
 # <span style="color:white">**Eduardo Cabrera** </span>

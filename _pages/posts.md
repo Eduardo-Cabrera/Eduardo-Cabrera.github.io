@@ -1,7 +1,7 @@
 ---
 layout: post-list
-title: Posts
-description: "List of posts"
+title: Articulos de Eduardo Cabrera Blázquez
+description: "Listado de Ariculos del blog de Eduardo Cabrera Blázquez"
 permalink: /posts.html
 ---
 

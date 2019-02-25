@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Curso online (Apps.Moviles)"
+title: "Curso online google activate de Eduardo Cabrera Blázquez"
+description: "Articulo de Eduardo Cabrera Blázquez  curso online google activate"
 image: images/activate.jpg
 
 categories:
@@ -35,16 +36,12 @@ div {
 
   
 
-
-{% capture fig_img %}
-![Foo]({{ site.url }}/images/apps-moviles.jpg)
-{% endcapture %}
-
-<figure>
-	
-	{{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+<figure style="width: 100%" class="align-center">
+  <img src="https://eduardo-cabrera.github.io/images/apps-moviles.jpg" alt="curso google activate Eduardo Cabrera Blázquez">
   <figcaption>Curso Google / Complutense.</figcaption>
 </figure>
+
+
 
 <span style="color:blue"> aqui tienes el acceso a  <a target='_blank' href="https://www.google.es/landing/activate/home">**Google activate**</a></span>
 

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Pensamiento Lateral"
+description: "Articulo de Eduardo Cabrera Blázquez pensamiento lateral"
+image: images/activate.jpg
 image: images/pensamiento-lateral.png
 
 categories:

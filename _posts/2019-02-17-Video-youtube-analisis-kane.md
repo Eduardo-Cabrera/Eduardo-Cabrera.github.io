@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Analisis de Ciudadano Kane"
+description: "Articulo de Eduardo Cabrera Blázquez Analisis de ciudadano kane"
+image: images/activate.jpg
 image: images/manipulacion.png
 
 categories:

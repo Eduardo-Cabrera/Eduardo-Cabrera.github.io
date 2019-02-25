@@ -1,7 +1,7 @@
 ---
 layout: contacto-edu
-title: EDUARDO CABRERA
-description: "Contacta conmigo"
+title: Eduardo Cabrera Blázquez
+description: "Contacto Eduardo Cabrera Blázquez"
 permalink: /contact.html
 image: images/foto-edu.png
 ---

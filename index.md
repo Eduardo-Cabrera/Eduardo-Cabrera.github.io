@@ -1,5 +1,7 @@
 ---
 layout: home
+title: El blog de Eduardo Cabrera Blázquez
+description: "Publicaciones de Eduardo Cabrera Blázquez"
 ---
 # <span style="color:white">**Ciudadano Kane** </span>
 

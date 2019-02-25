@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tag Archive
-description: "An archive of posts sorted by tag."
+title: Etiquetas del Blog de Eduardo Cabrera blázquez
+description: "Etiquetas y categorias del Blog de Eduardo Cabrera blázquez"
 permalink: /tags.html
 ---
 

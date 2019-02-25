@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "La guerra de los mundos "
+description: "Articulo de Eduardo Cabrera Blázquez la guerra de los mundos"
+image: images/activate.jpg
 image: images/orson-welles.jpg
 categories:
   - videos
