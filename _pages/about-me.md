@@ -20,7 +20,7 @@ Sin dudarlo, voy al encuentro de mi propio " Rosebud ". Quizas no sea solo uno, 
 
 
 <figure style="width: 30%" class="align-left">
-  <img src="https://eduardo-cabrera.github.io/images/foto-edu.png" alt="">
+  <img src="/images/foto-edu.png" alt="">
   </figure> 
  Estoy seguro que esta nueva aventura tiene que aportarme algo de lo que espero. Como poco, el contraste de información y opiniones es de por si, una buena forma de  aprender y desaprender.
  

@@ -1,6 +1,91 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-22T21:09:08+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ciudadano Kane</title><subtitle>Rosebud</subtitle><entry><title type="html">Pensamiento Lateral</title><link href="http://localhost:4000/pensamiento-lateral/" rel="alternate" type="text/html" title="Pensamiento Lateral" /><published>2019-02-19T00:00:00+01:00</published><updated>2019-02-19T00:00:00+01:00</updated><id>http://localhost:4000/pensamiento-lateral</id><content type="html" xml:base="http://localhost:4000/pensamiento-lateral/">&lt;p&gt;&lt;a name=&quot;inicio-articulo&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-25T08:10:56+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ciudadano Kane</title><subtitle>Rosebud</subtitle><entry><title type="html">Giordano Bruno</title><link href="http://localhost:4000/Giordano-Bruno/" rel="alternate" type="text/html" title="Giordano Bruno" /><published>2019-02-24T00:00:00+01:00</published><updated>2019-02-24T00:00:00+01:00</updated><id>http://localhost:4000/Giordano-Bruno</id><content type="html" xml:base="http://localhost:4000/Giordano-Bruno/">&lt;p&gt;&lt;a name=&quot;inicio-articulo&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;figure style=&quot;width: 70%&quot; class=&quot;align-center&quot;&gt;
-  &lt;img src=&quot;https://eduardo-cabrera.github.io/images/separador.png&quot; alt=&quot;&quot; /&gt;
+  &lt;img src=&quot;/images/separador.png&quot; alt=&quot;&quot; /&gt;
+  &lt;/figure&gt;
+
+&lt;h1 style=&quot;color:#2e522e;  text-align: center;&quot; id=&quot;giordano-bruno&quot;&gt;Giordano Bruno&lt;/h1&gt;
+
+&lt;style&gt;
+div {
+	background-color: #7daf77
+  text-align: justify;
+  text-justify: inter-word;
+  LINE-HEIGHT:1.6; 
+}
+&lt;/style&gt;
+
+&lt;h2 style=&quot;color:#2e522e;  text-align: center;&quot; id=&quot;padre-de-la-ciencia-moderna-y-martir-del-heliocentrismo&quot;&gt;Padre de la Ciencia Moderna y martir del heliocentrismo&lt;/h2&gt;
+
+&lt;figure style=&quot;width: 50%&quot; class=&quot;align-left&quot;&gt;
+ &lt;img src=&quot;/images/bruno-2.png&quot; alt=&quot;&quot; /&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;Uno de los objetivos de este blog es dar a conocer sucesos y personajes relevantes en la historia del hombre. Creo que este Dominico que colgó los habitos por amor a la filosofía y a la verdad, merece su espacio y reconocimiento.&lt;/p&gt;
+
+&lt;p&gt;Antes de entrar en materia, hay que mencionar que este pensador adelantado a su tiempo,aportó un cambio decisivo en  el concepto de la enseñanza. Nunco puedo aceptar que los profesores de la universidad dictaran las clases mientras los alumnos tomaban notas en una actitud pasiva, afirmando que el estudiante debia  moverse hacia el conocimiento, debatiendo y cuestionando. Reivindicó el imprescindible don de la imaginación e impartió clases sobre procesos nemotécnicos.&lt;/p&gt;
+
+&lt;figure style=&quot;width: 100%&quot; class=&quot;align-center&quot;&gt;
+  &lt;img src=&quot;/images/bruno-1.jpg&quot; alt=&quot;&quot; /&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;Filippo Bruno, despues conocido como Giordano Bruno, nació tan solo 5 años despues de la muerte de  Nicolás Copérnico, monje Polaco que evitó publicar sus teorias heliocentristas hasta el mismo año de su fallecimiento. La historia de Giordano fue más dramatica y no pudo vivir hasta los 70 años como su predecesor, muriendo en la hoguera a manos de la inqusición. De hecho , fue incluso más allá de las afirmaciones astronómicas de Copérnico,  indicando  que el sol era tan solo una estrella. No conforme con esto , habló de otros posibles mundos habitados,  cuestionó la Trinidad y la eucaristía entre otras herejías de las que fue acusado como por calificar de mago a Moises y al mismo Jesucristo.&lt;/p&gt;
+
+&lt;h2 style=&quot;color:#2e522e;  text-align: center;&quot; id=&quot;400-años-despues-la-iglesia-pidio-perdón-por-quemar-vivo-a-giordano-bruno&quot;&gt;400 años despues La Iglesia pidio perdón por quemar vivo a Giordano Bruno.&lt;/h2&gt;
+
+&lt;figure style=&quot;width: 50%&quot; class=&quot;align-right&quot;&gt;
+  &lt;figcaption style=&quot;color: green&quot;&gt;corte de la película Giordano Bruno (1973)&lt;/figcaption&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/8lnaFjuCK0w&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;figcaption style=&quot;color: green&quot;&gt;Escena Inquisición&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Tembláis más vosotros al pronunciar la sentencia 
+que yo al recibirla.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Dicen que fue de carácter egocéntrico e indómito, que se enfrentó a todas las autoridades religiosas de la Europa de su tiempo y que fue excomulgado no sólo por los católicos, sino también por calvinistas y luteranos. Antes de ser expulsado de su orden, en su celda, fue sorprendido leyendo a Erasmus aparte de haber quitado las imagenes de la virgen y los santos, dejando solo un crucifijo.&lt;/p&gt;
+
+&lt;figure style=&quot;width: 30%&quot; class=&quot;align-left&quot;&gt;
+ &lt;img src=&quot;/images/bruno-4.png&quot; alt=&quot;&quot; /&gt;
+  
+&lt;/figure&gt;
+&lt;p&gt;A los 24 años fue ordenado sacerdote y a los 28 obtuvo su licenciatura como lector de teología en su convento napolitano. Criticó todos los grandes acontecimientos de la época, empezando por la conquista de América. Se Afirma que Bruno fue quemado  por su obstinación, pero no se habla tanto de que fue abrumado por el peso de las acusaciones y que en un gesto desesperado, el filósofo intentó una mediación del papa Clemente VIII.&lt;/p&gt;
+
+&lt;p&gt;Enseñó en la Sorbona de París y en la Universidad de Oxford pero tuvo que ser en la  República de Venecia, único pedazo de tierra italiana libre de la dominación española y de la Papal, la que pondría fin a la carrera y a la vida del filósofo, entregándolo a la Inquisición romana. Parece ser que los editores venecianos sufrían cuantiosas perdidas debido a la estricta política  de la Inquisición  que les impedía editar centenares de libros, motivo por el que intervendrian  obteniendo algunas sustanciosas contrapartidas por entregar el reo a Roma.&lt;/p&gt;
+
+&lt;figure style=&quot;width: 50%&quot; class=&quot;align-right&quot;&gt;
+&lt;img src=&quot;/images/bruno-6.png&quot; alt=&quot;&quot; /&gt;
+  
+  &lt;figcaption style=&quot;color: green&quot;&gt;Venecia&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+&lt;p&gt;Fue en 1591 cuando recibió una invitación para ir a Venecia de parte de Zuane Mocenigo, quien lo requería para aprender sobre el arte de la memoria. Su anfitrión entró en la habitación de Bruno con algunos gondoleros, que sacaron al filósofo de la cama y lo encerraron en un sótano oscuro. Al día siguiente llegó un capitán con un grupo de soldados y una orden de la Inquisición Veneciana para arrestar a Bruno y confiscar todos sus bienes y libros.Bruno fue apresado e interrogado en Venecia, sin embargo, fue solicitado y trasladado a Roma.&lt;/p&gt;
+
+&lt;figure style=&quot;width: 50%&quot; class=&quot;align-left&quot;&gt;
+&lt;img src=&quot;/images/bruno-5.png&quot; alt=&quot;&quot; /&gt;
+  
+  &lt;figcaption style=&quot;color: green&quot;&gt;Quemado vivo en la hoguera&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+&lt;p&gt;Estuvo prisionero en Roma durante siete años. En muchas ocasiones Bruno ofreció retractarse de sus acusaciones, sin embargo, no le fueron aceptadas. Finalmente decidió no retractarse, aunque no se sabe por qué tomó esta decisión. El 20 de enero de 1600 el Papa Clemente VIII ordenó que Bruno fuera llevado ante las autoridades seculares, el 8 de febrero fue leída la sentencia en que se le declaraba herético impenitente, pertinaz y obstinado. Fue expulsado de la iglesia y tanto sus trabajos como el mismo fueron quemados en la plaza pública.&lt;/p&gt;
+
+&lt;p&gt;En este video Pedro Rivera y Oscar Acebedo  nos explican como “El nolano” se alza sobre la falsa utilización de los sentidos que nubla la razón y reprime el progreso.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/rv_ofkuA7Fs&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“La naturaleza no es otra cosa que Dios en las cosas… Animales y plantas son efectos vivientes de la naturaleza; de ahí que todo lo que es Dios está en todas las cosas…” Giordano Bruno&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“No debe ser aceptada ninguna ley que no tenga por finalidad la convivencia humana…”
+Giordano Bruno&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name></name></author><category term="Personajes" /><category term="Pensamiento" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/bruno-0.png" /></entry><entry><title type="html">Pensamiento Lateral</title><link href="http://localhost:4000/pensamiento-lateral/" rel="alternate" type="text/html" title="Pensamiento Lateral" /><published>2019-02-19T00:00:00+01:00</published><updated>2019-02-19T00:00:00+01:00</updated><id>http://localhost:4000/pensamiento-lateral</id><content type="html" xml:base="http://localhost:4000/pensamiento-lateral/">&lt;p&gt;&lt;a name=&quot;inicio-articulo&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;figure style=&quot;width: 70%&quot; class=&quot;align-center&quot;&gt;
+  &lt;img src=&quot;images/separador.png&quot; alt=&quot;&quot; /&gt;
   &lt;/figure&gt;
 
 &lt;p&gt;&lt;span style=&quot;color:green&quot;&gt; &lt;strong&gt;Pensamiento Lateral&lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
@@ -94,12 +179,12 @@ div {
 
 &lt;div&gt;
  
-&lt;/div&gt;</content><author><name></name></author><category term="Eduardo" /><category term="Manipulación" /><category term="Cursos" /><summary type="html">Pensamiento Lateral</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://Eduardo-Cabrera.github.io/images/pensamiento-lateral.png" /></entry><entry><title type="html">Analisis de Ciudadano Kane</title><link href="http://localhost:4000/Video-youtube-analisis-kane/" rel="alternate" type="text/html" title="Analisis de Ciudadano Kane" /><published>2019-02-17T00:00:00+01:00</published><updated>2019-02-17T00:00:00+01:00</updated><id>http://localhost:4000/Video-youtube-analisis-kane</id><content type="html" xml:base="http://localhost:4000/Video-youtube-analisis-kane/">&lt;p&gt;&lt;a name=&quot;inicio-articulo&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="Eduardo" /><category term="Pensamiento" /><category term="Cursos" /><summary type="html">Pensamiento Lateral</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/pensamiento-lateral.png" /></entry><entry><title type="html">Analisis de Ciudadano Kane</title><link href="http://localhost:4000/Video-youtube-analisis-kane/" rel="alternate" type="text/html" title="Analisis de Ciudadano Kane" /><published>2019-02-17T00:00:00+01:00</published><updated>2019-02-17T00:00:00+01:00</updated><id>http://localhost:4000/Video-youtube-analisis-kane</id><content type="html" xml:base="http://localhost:4000/Video-youtube-analisis-kane/">&lt;p&gt;&lt;a name=&quot;inicio-articulo&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;figure style=&quot;width: 70%&quot; class=&quot;align-center&quot;&gt;
-  &lt;img src=&quot;https://eduardo-cabrera.github.io/images/separador.png&quot; alt=&quot;&quot; /&gt;
+  &lt;img src=&quot;images/separador.png&quot; alt=&quot;&quot; /&gt;
   &lt;/figure&gt;
 
-&lt;p&gt;&lt;span style=&quot;color:green&quot;&gt; &lt;strong&gt;Analisis: El Ciudadano, de Orson Wells”&lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color:green&quot;&gt; &lt;strong&gt;Analisis: El Ciudadano, de Orson Welles”&lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
 
 &lt;style&gt;
 div {
@@ -115,7 +200,7 @@ div {
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;No dejes de ver “la emisión del pánico” por Orson Wells.El episodio es famoso por demostrar el poder de los medios de comunicación, ya  que causó el pánico en su audiencia que se asustaron por la supuesta invasión de extraterrestres.&lt;/p&gt;
+&lt;p&gt;No dejes de ver “la emisión del pánico” por Orson Welles.El episodio es famoso por demostrar el poder de los medios de comunicación, ya  que causó el pánico en su audiencia que se asustaron por la supuesta invasión de extraterrestres.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -123,9 +208,9 @@ div {
 
 &lt;div&gt;
  
-&lt;/div&gt;</content><author><name></name></author><category term="videos" /><category term="Orson Wells" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://Eduardo-Cabrera.github.io/images/manipulacion.png" /></entry><entry><title type="html">La guerra de los mundos</title><link href="http://localhost:4000/Video-youtube-orson-wells/" rel="alternate" type="text/html" title="La guerra de los mundos " /><published>2019-02-11T00:00:00+01:00</published><updated>2019-02-11T00:00:00+01:00</updated><id>http://localhost:4000/Video-youtube-orson-wells</id><content type="html" xml:base="http://localhost:4000/Video-youtube-orson-wells/">&lt;p&gt;&lt;a name=&quot;inicio-articulo&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="videos" /><category term="Orson Welles" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/manipulacion.png" /></entry><entry><title type="html">La guerra de los mundos</title><link href="http://localhost:4000/Video-youtube-orson-wells/" rel="alternate" type="text/html" title="La guerra de los mundos " /><published>2019-02-11T00:00:00+01:00</published><updated>2019-02-11T00:00:00+01:00</updated><id>http://localhost:4000/Video-youtube-orson-wells</id><content type="html" xml:base="http://localhost:4000/Video-youtube-orson-wells/">&lt;p&gt;&lt;a name=&quot;inicio-articulo&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;figure style=&quot;width: 70%&quot; class=&quot;align-center&quot;&gt;
-  &lt;img src=&quot;https://eduardo-cabrera.github.io/images/separador.png&quot; alt=&quot;&quot; /&gt;
+  &lt;img src=&quot;images/separador.png&quot; alt=&quot;&quot; /&gt;
   &lt;/figure&gt;
 
 &lt;p&gt;&lt;span style=&quot;color:green&quot;&gt; &lt;strong&gt;La emisión del Pánico&lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
@@ -149,9 +234,9 @@ div {
 
 &lt;div&gt;
  
-&lt;/div&gt;</content><author><name></name></author><category term="videos" /><category term="Orson Wells" /><category term="Documentales" /><category term="Manipulación" /><category term="Medios de comunicación" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://Eduardo-Cabrera.github.io/images/orson-welles.jpg" /></entry><entry><title type="html">CITIZEN KANE</title><link href="http://localhost:4000/La-pelicula-Ciudadano-kane/" rel="alternate" type="text/html" title="CITIZEN KANE" /><published>2019-02-09T00:00:00+01:00</published><updated>2019-02-09T00:00:00+01:00</updated><id>http://localhost:4000/La-pelicula-Ciudadano-kane</id><content type="html" xml:base="http://localhost:4000/La-pelicula-Ciudadano-kane/">&lt;p&gt;&lt;a name=&quot;inicio-articulo&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="videos" /><category term="Orson Welles" /><category term="Documentales" /><category term="Medios de comunicación" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/orson-welles.jpg" /></entry><entry><title type="html">CITIZEN KANE</title><link href="http://localhost:4000/La-pelicula-Ciudadano-kane/" rel="alternate" type="text/html" title="CITIZEN KANE" /><published>2019-02-09T00:00:00+01:00</published><updated>2019-02-09T00:00:00+01:00</updated><id>http://localhost:4000/La-pelicula-Ciudadano-kane</id><content type="html" xml:base="http://localhost:4000/La-pelicula-Ciudadano-kane/">&lt;p&gt;&lt;a name=&quot;inicio-articulo&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;figure style=&quot;width: 70%&quot; class=&quot;align-center&quot;&gt;
-  &lt;img src=&quot;https://eduardo-cabrera.github.io/images/separador.png&quot; alt=&quot;&quot; /&gt;
+  &lt;img src=&quot;images/separador.png&quot; alt=&quot;&quot; /&gt;
   &lt;/figure&gt;
 
 &lt;p&gt;&lt;span style=&quot;color:green&quot;&gt; &lt;strong&gt;Ver Pelicula Ciudadano Kane&lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
@@ -164,7 +249,7 @@ div {
 &lt;/style&gt;
 
 &lt;figure style=&quot;width: 30%&quot; class=&quot;align-right&quot;&gt;
- &lt;img src=&quot;https://eduardo-cabrera.github.io/images/Citizen_Kane_poster.jpg&quot; alt=&quot;&quot; /&gt;
+ &lt;img src=&quot;images/Citizen_Kane_poster.jpg&quot; alt=&quot;&quot; /&gt;
   &lt;figcaption&gt;CITIZEN KANE&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -190,9 +275,9 @@ para cualquier finalidad, incluso comercial.&lt;/p&gt;
 
 &lt;div&gt;
  
-&lt;/div&gt;</content><author><name></name></author><category term="videos" /><category term="Peliculas" /><category term="Orson Wells" /><category term="Cine" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://Eduardo-Cabrera.github.io/images/Citizen_Kane_poster.jpg" /></entry><entry><title type="html">Curso online (Apps.Moviles)</title><link href="http://localhost:4000/app-moviles-google/" rel="alternate" type="text/html" title="Curso online (Apps.Moviles)" /><published>2017-04-01T00:00:00+02:00</published><updated>2017-04-01T00:00:00+02:00</updated><id>http://localhost:4000/app-moviles-google</id><content type="html" xml:base="http://localhost:4000/app-moviles-google/">&lt;p&gt;&lt;a name=&quot;inicio-articulo&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="videos" /><category term="Peliculas" /><category term="Orson Welles" /><category term="Cine" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/Citizen_Kane_poster.jpg" /></entry><entry><title type="html">Curso online (Apps.Moviles)</title><link href="http://localhost:4000/app-moviles-google/" rel="alternate" type="text/html" title="Curso online (Apps.Moviles)" /><published>2017-04-01T00:00:00+02:00</published><updated>2017-04-01T00:00:00+02:00</updated><id>http://localhost:4000/app-moviles-google</id><content type="html" xml:base="http://localhost:4000/app-moviles-google/">&lt;p&gt;&lt;a name=&quot;inicio-articulo&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;figure style=&quot;width: 70%&quot; class=&quot;align-center&quot;&gt;
-  &lt;img src=&quot;https://eduardo-cabrera.github.io/images/separador.png&quot; alt=&quot;&quot; /&gt;
+  &lt;img src=&quot;images/separador.png&quot; alt=&quot;&quot; /&gt;
   &lt;/figure&gt;
 
 &lt;h1 style=&quot;color:red;  text-align: center;&quot; id=&quot;google-activate&quot;&gt;Google Activate&lt;/h1&gt;
@@ -219,4 +304,4 @@ div {
 
 &lt;div&gt;
  
-&lt;/div&gt;</content><author><name></name></author><category term="Cursos" /><category term="Google Activate" /><category term="Eduardo" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://Eduardo-Cabrera.github.io/images/activate.jpg" /></entry></feed>
+&lt;/div&gt;</content><author><name></name></author><category term="Cursos" /><category term="Google Activate" /><category term="Eduardo" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/activate.jpg" /></entry></feed>

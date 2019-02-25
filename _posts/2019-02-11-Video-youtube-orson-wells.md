@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "La guerra de los mundos "
-image: https://Eduardo-Cabrera.github.io/images/orson-welles.jpg
+image: images/orson-welles.jpg
 categories:
   - videos
   
@@ -10,12 +10,11 @@ tags:
   - videos
   - Orson Welles
   - Documentales
-  - Manipulación
   - Medios de comunicación
 ---
 <a name="inicio-articulo">
 <figure style="width: 70%" class="align-center">
-  <img src="https://eduardo-cabrera.github.io/images/separador.png" alt="">
+  <img src="images/separador.png" alt="">
   </figure> 
 
 

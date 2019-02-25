@@ -1,19 +1,19 @@
 ---
 layout: post
 title: "Pensamiento Lateral"
-image: https://Eduardo-Cabrera.github.io/images/pensamiento-lateral.png
+image: images/pensamiento-lateral.png
 
 categories:
   - Eduardo
   - Manipulación
 tags:
   - Eduardo
-  - Manipulación
+  - Pensamiento
   - Cursos
 ---
 <a name="inicio-articulo">
   <figure style="width: 70%" class="align-center">
-  <img src="https://eduardo-cabrera.github.io/images/separador.png" alt="">
+  <img src="images/separador.png" alt="">
   </figure> 
   
 <span style="color:green"> **Pensamiento Lateral** </span>

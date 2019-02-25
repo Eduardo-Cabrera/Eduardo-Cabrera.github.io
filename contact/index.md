@@ -3,7 +3,7 @@ layout: contacto-edu
 title: EDUARDO CABRERA
 description: "Contacta conmigo"
 permalink: /contact.html
-image: https://Eduardo-Cabrera.github.io/images/foto-edu.png
+image: images/foto-edu.png
 ---
 
 

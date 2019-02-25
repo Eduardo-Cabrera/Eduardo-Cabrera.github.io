@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Analisis de Ciudadano Kane"
-image: https://Eduardo-Cabrera.github.io/images/manipulacion.png
+image: images/manipulacion.png
 
 categories:
   - videos
@@ -14,7 +14,7 @@ tags:
 ---
 <a name="inicio-articulo">
 <figure style="width: 70%" class="align-center">
-  <img src="https://eduardo-cabrera.github.io/images/separador.png" alt="">
+  <img src="images/separador.png" alt="">
   </figure> 
 
 <span style="color:green"> **Analisis: El Ciudadano, de Orson Welles"** </span>

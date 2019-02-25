@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CITIZEN KANE"
-image: https://Eduardo-Cabrera.github.io/images/Citizen_Kane_poster.jpg
+image: images/Citizen_Kane_poster.jpg
 categories:
   - videos
   
@@ -15,7 +15,7 @@ tags:
 ---
 <a name="inicio-articulo">
 <figure style="width: 70%" class="align-center">
-  <img src="https://eduardo-cabrera.github.io/images/separador.png" alt="">
+  <img src="images/separador.png" alt="">
   </figure> 
 
 
@@ -29,7 +29,7 @@ div {
 </style>
 
 <figure style="width: 30%" class="align-right">
- <img src="https://eduardo-cabrera.github.io/images/Citizen_Kane_poster.jpg" alt="">
+ <img src="images/Citizen_Kane_poster.jpg" alt="">
   <figcaption>CITIZEN KANE</figcaption>
 </figure> 
 
