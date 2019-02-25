@@ -49,7 +49,7 @@ div {
 
 Uno de los objetivos de este blog es dar a conocer sucesos y personajes relevantes en la historia del hombre. Creo que este Dominico que colgó los habitos por amor a la filosofía y a la verdad, merece su espacio y reconocimiento. 
 
-Antes de entrar en materia, hay que mencionar que este pensador adelantado a su tiempo,aportó un cambio decisivo en  el concepto de la enseñanza. Nunco puedo aceptar que los profesores de la universidad dictaran las clases mientras los alumnos tomaban notas en una actitud pasiva, afirmando que el estudiante debia  moverse hacia el conocimiento, debatiendo y cuestionando. Reivindicó el imprescindible don de la imaginación e impartió clases sobre procesos nemotécnicos.
+Antes de entrar en materia, hay que mencionar que este pensador adelantado a su tiempo,aportó un cambio decisivo en  el concepto de la enseñanza. Nunca puedo aceptar que los profesores de la universidad dictaran las clases mientras los alumnos tomaban notas en actitud pasiva, afirmando que el estudiante debia  moverse hacia el conocimiento, debatiendo y cuestionando. Reivindicó el imprescindible don de la imaginación e impartió clases sobre procesos nemotécnicos.
 
 
 
@@ -58,7 +58,7 @@ Antes de entrar en materia, hay que mencionar que este pensador adelantado a su 
   
 </figure>
 
-Filippo Bruno, despues conocido como Giordano Bruno, nació tan solo 5 años despues de la muerte de  Nicolás Copérnico, monje Polaco que evitó publicar sus teorias heliocentristas hasta el mismo año de su fallecimiento. La historia de Giordano fue más dramatica y no pudo vivir hasta los 70 años como su predecesor, muriendo en la hoguera a manos de la inqusición. De hecho , fue incluso más allá de las afirmaciones astronómicas de Copérnico,  indicando  que el sol era tan solo una estrella. No conforme con esto , habló de otros posibles mundos habitados,  cuestionó la Trinidad y la eucaristía entre otras herejías de las que fue acusado como por calificar de mago a Moises y al mismo Jesucristo.
+Filippo Bruno, despues conocido como Giordano Bruno, nació tan solo 5 años despues de la muerte de  Nicolás Copérnico, monje Polaco que evitó publicar sus teorias heliocentristas hasta el mismo año de su fallecimiento. La historia de Giordano fue bastante más dramatica y no pudo vivir hasta los 70 años como su predecesor, muriendo en la hoguera a manos de la inqusición. De hecho , fue incluso más allá de las afirmaciones astronómicas de Copérnico,  indicando  que el sol era tan solo una estrella. No conforme con esto , habló de otros posibles mundos habitados,  cuestionó la Trinidad y la eucaristía entre otras herejías de las que fue acusado como por calificar de mago a Moises y al mismo Jesucristo.
 
 
 ## 400 años despues La Iglesia pidio perdón por quemar vivo a Giordano Bruno.
