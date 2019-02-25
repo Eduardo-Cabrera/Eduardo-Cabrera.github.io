@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Curso online google activate de Eduardo Cabrera Blázquez"
+title: "Cursos online de google activate. Eduardo Cabrera Blázquez"
 description: "Articulo de Eduardo Cabrera Blázquez  curso online google activate"
 image: images/activate.jpg
 
