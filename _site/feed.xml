@@ -1,4 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-26T22:42:04+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ciudadano Kane</title><subtitle>Rosebud</subtitle><entry><title type="html">Gibraltar y… ¿ La gran Bretaña ?</title><link href="http://localhost:4000/Gibraltar-Sin-honor/" rel="alternate" type="text/html" title="Gibraltar y... ¿ La gran Bretaña ?" /><published>2019-02-26T00:00:00+01:00</published><updated>2019-02-26T00:00:00+01:00</updated><id>http://localhost:4000/Gibraltar-Sin-honor</id><content type="html" xml:base="http://localhost:4000/Gibraltar-Sin-honor/">&lt;p&gt;&lt;a name=&quot;inicio-articulo&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-28T16:42:20+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ciudadano Kane</title><subtitle>Rosebud</subtitle><entry><title type="html">La parábola del colibrí</title><link href="http://localhost:4000/parabola-colibri/" rel="alternate" type="text/html" title="La parábola del colibrí" /><published>2019-02-28T00:00:00+01:00</published><updated>2019-02-28T00:00:00+01:00</updated><id>http://localhost:4000/parabola-colibri</id><content type="html" xml:base="http://localhost:4000/parabola-colibri/">&lt;p&gt;&lt;a name=&quot;inicio-articulo&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;figure style=&quot;width: 70%&quot; class=&quot;align-center&quot;&gt;
+  &lt;img src=&quot;https://eduardo-cabrera.github.io/images/separador.png&quot; alt=&quot;&quot; /&gt;
+  &lt;/figure&gt;
+
+&lt;h1 style=&quot;color:#773502;  text-align: center;&quot; id=&quot;la-parábola-del-colibrí&quot;&gt;La Parábola del Colibrí&lt;/h1&gt;
+
+&lt;style&gt;
+div {
+  text-align: justify;
+  text-justify: inter-word;
+  LINE-HEIGHT:1.6; 
+}
+&lt;/style&gt;
+
+&lt;p&gt;&lt;span style=&quot;color:#053f17&quot;&gt; &lt;strong&gt;Quedaré satisfecho&lt;/strong&gt; el dia que que se enseñe conciencia de tal manera que hagamos lo que esta bien aun cuando nadie nos mire, aun cuando nadie lo haga.&lt;/span&gt;&lt;/p&gt;
+
+&lt;figure style=&quot;width: 100%&quot; class=&quot;align-center&quot;&gt;
+  &lt;img src=&quot;/images/parabola-colibri.jpg&quot; alt=&quot;parabola colibri&quot; /&gt;
+  
+&lt;/figure&gt;
+
+&lt;div&gt;
+ 
+&lt;/div&gt;</content><author><name></name></author><category term="Eduardo" /><category term="Mensaje corto" /><category term="Pensamiento" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/colibri.jpg" /></entry><entry><title type="html">Gibraltar y… ¿ La gran Bretaña ?</title><link href="http://localhost:4000/Gibraltar-Sin-honor/" rel="alternate" type="text/html" title="Gibraltar y... ¿ La gran Bretaña ?" /><published>2019-02-26T00:00:00+01:00</published><updated>2019-02-26T00:00:00+01:00</updated><id>http://localhost:4000/Gibraltar-Sin-honor</id><content type="html" xml:base="http://localhost:4000/Gibraltar-Sin-honor/">&lt;p&gt;&lt;a name=&quot;inicio-articulo&quot;&gt;
  &lt;br /&gt;
   &lt;br /&gt;&lt;/a&gt;&lt;/p&gt;
 
