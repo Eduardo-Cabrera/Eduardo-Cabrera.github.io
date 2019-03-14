@@ -15,7 +15,7 @@ tags:
 
 <a name="inicio-articulo">
  <figure style="width: 70%" class="align-center">
-  <img src="/images/separador.png" alt="">
+  <img src="https://eduardo-cabrera.github.io/images/separador.png" alt="">
   </figure> 
 
 
@@ -24,7 +24,7 @@ tags:
 
 <a name="inicio-articulo">
  <figure style="width: 70%" class="align-center">
-  <img src="/images/poster-eufemismo.png" alt="">
+  <img src="https://eduardo-cabrera.github.io/images/eufemismo.png" alt="">
   </figure> 
  
 
