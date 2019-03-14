@@ -15,13 +15,17 @@ tags:
 
 <a name="inicio-articulo">
  <figure style="width: 70%" class="align-center">
-  <img src="https://eduardo-cabrera.github.io/images/separador.png" alt="">
+  <img src="/images/separador.png" alt="">
   </figure> 
 
 
 # Repasando los eufemismos
 {: style="color:#21437a;  text-align: center;"} 
 
+<a name="inicio-articulo">
+ <figure style="width: 70%" class="align-center">
+  <img src="/images/poster-eufemismo.png" alt="">
+  </figure> 
  
 
 <style>
@@ -32,7 +36,7 @@ div {
 }
 </style>
 
-<span style="color:#0e1d35"> **Sobre los eufemismos** todos tenemos alguna opinión. Los hay ridiculos, los hay educados, los hay "necesarios" y los que rozan el sarcasmo o son absolutemente vergonzantes y vergonzosos. En una de mis últimas publicaciones ya mencioné que la Unión europea  señala que Gibraltar es **"una zona de jurisdicción no cooperativa en materia fiscal"**, algo con tanta enjundia soterrada merece ser ampliado con otras joyas del sector.</span>
+<span style="color:#0e1d35"> **Sobre los eufemismos** todos tenemos alguna opinión. Los hay ridiculos, los hay educados, los hay "necesarios" y los que rozan el sarcasmo o son absolutemente vergonzantes y vergonzosos. Me he inspirado en una de mis últimas publicaciones en que mencioné que la Unión europea  señala que Gibraltar es **"una zona de jurisdicción no cooperativa en materia fiscal"** Algo con tanta enjundia soterrada merece ser ampliado con otras joyas del sector.</span>
 
   <figure style="width: 50%" class="align-right">
   <img src="/images/colaterales.png" alt="">
