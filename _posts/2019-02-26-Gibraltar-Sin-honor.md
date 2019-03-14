@@ -54,7 +54,7 @@ Asi como el corsario Drake se contempla en la historia como uno de los mayores p
 
 
 
-Sin duda, lo que no es tan fácil de explicar es la desidia y pasividad comunitaria que eufemisticamente prefiere adjetivizar la zona como **"jurisdicción no cooperativa en material fiscal"**
+Sin duda, lo que no es tan fácil de explicar es la desidia y pasividad comunitaria que eufemisticamente prefiere adjetivizar la zona como **"jurisdicción no cooperativa en materia fiscal"**
 , dejando toda la responsabilidad a los  Españoles para  llamar a las cosas por su nombre: 
 {: style="color:#202e44;  text-align: justify;"} 
 
