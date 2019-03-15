@@ -37,7 +37,7 @@ div {
 <br/>
 
 <iframe width="640" height="360"
-rc="http://cdn034.fractalmedia.es/video/aeee13a186b0dad0304b068aeaceccac/ggiHzaDjoS.H264-720p.mp4"
+src="http://cdn034.fractalmedia.es/video/aeee13a186b0dad0304b068aeaceccac/ggiHzaDjoS.H264-720p.mp4">
 </iframe> 
 <br/>
 
