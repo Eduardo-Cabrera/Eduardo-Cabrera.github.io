@@ -38,7 +38,7 @@ div {
 
 
 
-<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.0067%;"><iframe src="https://www.youtube.com/embed/RLi38q6h4vY"  style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen allow="autoplay; encrypted-media"></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RLi38q6h4vY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/>
 
