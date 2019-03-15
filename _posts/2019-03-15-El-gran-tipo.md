@@ -36,12 +36,9 @@ div {
 (Great Guy) 1936.  Octava pelicula de James Cagney , actor que triunfo en los años 30 con la Warner Bross pero fue capáz de liberarse para crear su propia productora, la Cagney Productions. Recibió un Oscar en 1942 por su interpretación en "Yanky Dandy". Aquellos años del cine negro americano, de gansters, mafias y tipos duros pero con grandes principios. Mi intención es continuar compartiendo titulos como "Los violentos años veinte" donde comparte cartél con Humphrey Bogart. Quizas esto se convierta en saga, pues hay muchas otras que ver.
 <br/>
 
-<iframe width="640" height="360"
-src="http://cdn034.fractalmedia.es/video/aeee13a186b0dad0304b068aeaceccac/ggiHzaDjoS.H264-720p.mp4">
-</iframe> 
-<br/>
 
 
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.0067%;"><iframe src="https://www.youtube.com/embed/RLi38q6h4vY"  style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen allow="autoplay; encrypted-media"></iframe></div>
 
 <br/>
 
