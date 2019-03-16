@@ -52,7 +52,7 @@ Con toda seguridad, esta no es su mejor pelicula, pero su actuación en lucha co
  
 
 
-<input type="button" onclick="location.href='http://eduardo-cabrera.github.io/La-pelicula-Ciudadano-kane';" value="Ver Ciudaddano Kane">
+<input type="button" onclick="location.href='http://eduardo-cabrera.github.io/La-pelicula-Ciudadano-kane';" value="Ver Ciudadano Kane">
 
 
 
