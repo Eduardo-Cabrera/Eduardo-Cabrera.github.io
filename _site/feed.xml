@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-15T22:11:10+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ciudadano Kane</title><subtitle>Rosebud</subtitle><entry><title type="html">EL GRAN TIPO</title><link href="http://localhost:4000/El-gran-tipo/" rel="alternate" type="text/html" title="EL GRAN TIPO" /><published>2019-03-15T00:00:00+01:00</published><updated>2019-03-15T00:00:00+01:00</updated><id>http://localhost:4000/El-gran-tipo</id><content type="html" xml:base="http://localhost:4000/El-gran-tipo/">&lt;p&gt;&lt;a name=&quot;inicio-articulo&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-04-13T01:38:48+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ciudadano Kane</title><subtitle>Rosebud</subtitle><entry><title type="html">La fiera de mi niña</title><link href="http://localhost:4000/la-fiera/" rel="alternate" type="text/html" title="La fiera de mi niña" /><published>2019-04-12T00:00:00+02:00</published><updated>2019-04-12T00:00:00+02:00</updated><id>http://localhost:4000/la-fiera</id><content type="html" xml:base="http://localhost:4000/la-fiera/">&lt;p&gt;&lt;a name=&quot;inicio-articulo&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;figure style=&quot;width: 70%&quot; class=&quot;align-center&quot;&gt;
+  &lt;img src=&quot;https://eduardo-cabrera.github.io/images/separador.png&quot; alt=&quot;&quot; /&gt;
+  &lt;/figure&gt;
+
+&lt;p&gt;&lt;span style=&quot;color:green&quot;&gt; &lt;strong&gt;Ver Pelicula  La fiera de mi niña&lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;style&gt;
+div {
+  text-align: justify;
+  text-justify: inter-word;
+  LINE-HEIGHT:1.6; 
+}
+&lt;/style&gt;
+
+&lt;figure style=&quot;width: 50%&quot; class=&quot;align-right&quot;&gt;
+ &lt;img src=&quot;/images/la-fiera-2.jpg&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;La fiera de mi niña&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Bringing Up Baby (en Argentina, La adorable revoltosa; en España, La fiera de mi niña) es una película estadounidense del género de comedia, de 1938, dirigida por Howard Hawks con la participación estelar de Katharine Hepburn y Cary Grant.
+&lt;br /&gt;
+Es la segunda de cuatro películas protagonizadas por Grant y Hepburn; las otras son: Sylvia Scarlett (1935), Holiday (1938) y The Philadelphia Story (1940)
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://ueb2nbqdkk.playercdn.net/86/0/ceuu1Cwdi9h_mrbZN0fx3g/1555132535/180404/621FQ0YV4P0OKWROBQUXP.mp4&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;La fiera de mi niña está considerada como una de las obras maestras indiscutibles de la comedia y numerosos cineastas, guionistas e intérpretes se han inspirado en ella.&lt;/strong&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;div&gt;
+ 
+&lt;/div&gt;</content><author><name></name></author><category term="Peliculas" /><category term="Cine Clasico" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/LA-FIERA.jpg" /></entry><entry><title type="html">EL GRAN TIPO</title><link href="http://localhost:4000/El-gran-tipo/" rel="alternate" type="text/html" title="EL GRAN TIPO" /><published>2019-03-15T00:00:00+01:00</published><updated>2019-03-15T00:00:00+01:00</updated><id>http://localhost:4000/El-gran-tipo</id><content type="html" xml:base="http://localhost:4000/El-gran-tipo/">&lt;p&gt;&lt;a name=&quot;inicio-articulo&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;figure style=&quot;width: 70%&quot; class=&quot;align-center&quot;&gt;
   &lt;img src=&quot;https://eduardo-cabrera.github.io/images/separador.png&quot; alt=&quot;&quot; /&gt;
   &lt;/figure&gt;
@@ -20,7 +56,7 @@ div {
 &lt;p&gt;(Great Guy) 1936.  Octava pelicula de James Cagney , actor que triunfo en los años 30 con la Warner Bross pero fue capáz de liberarse para crear su propia productora, la Cagney Productions. Recibió un Oscar en 1942 por su interpretación en “Yanky Dandy”. Aquellos años del cine negro americano, de gansters, mafias y tipos duros pero con grandes principios. Mi intención es continuar compartiendo titulos como “Los violentos años veinte” donde comparte cartél con Humphrey Bogart. Quizas esto se convierta en saga, pues hay muchas otras que ver.
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;div style=&quot;left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.0067%;&quot;&gt;&lt;iframe src=&quot;http://cdn034.fractalmedia.es/video/aeee13a186b0dad0304b068aeaceccac/ggiHzaDjoS.H264-720p.mp4&quot; style=&quot;border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay; encrypted-media&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/RLi38q6h4vY&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -31,7 +67,7 @@ div {
 
 &lt;p&gt;&lt;strong&gt;Si tovia no habeis visto la película que me inspiró para este blog, podeis verla pulsando el siguiente botón&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;location.href='http://eduardo-cabrera.github.io/La-pelicula-Ciudadano-kane';&quot; value=&quot;Ver Ciudaddano Kane&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;location.href='http://eduardo-cabrera.github.io/La-pelicula-Ciudadano-kane';&quot; value=&quot;Ver Ciudadano Kane&quot; /&gt;&lt;/p&gt;
 
 &lt;div&gt;
  
@@ -507,30 +543,4 @@ para cualquier finalidad, incluso comercial.&lt;/p&gt;
 
 &lt;div&gt;
  
-&lt;/div&gt;</content><author><name></name></author><category term="Peliculas" /><category term="Orson Welles" /><category term="Cine Clasico" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/Citizen_Kane_poster.jpg" /></entry><entry><title type="html">Cursos online de google activate</title><link href="http://localhost:4000/app-moviles-google/" rel="alternate" type="text/html" title="Cursos online de google activate" /><published>2017-04-01T00:00:00+02:00</published><updated>2017-04-01T00:00:00+02:00</updated><id>http://localhost:4000/app-moviles-google</id><content type="html" xml:base="http://localhost:4000/app-moviles-google/">&lt;p&gt;&lt;a name=&quot;inicio-articulo&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;figure style=&quot;width: 70%&quot; class=&quot;align-center&quot;&gt;
-  &lt;img src=&quot;https://eduardo-cabrera.github.io/images/separador.png&quot; alt=&quot;&quot; /&gt;
-  &lt;/figure&gt;
-
-&lt;h1 style=&quot;color:red;  text-align: center;&quot; id=&quot;google-activate&quot;&gt;Google Activate&lt;/h1&gt;
-
-&lt;style&gt;
-div {
-  text-align: justify;
-  text-justify: inter-word;
-  LINE-HEIGHT:1.6; 
-}
-&lt;/style&gt;
-
-&lt;p&gt;&lt;span style=&quot;color:blue&quot;&gt; &lt;strong&gt;Google activate&lt;/strong&gt; es un proyecto de Google donde puedes adquirir conocimientos del sector digital y desarrollar nuevas habilidades. La siguiente imagen muestra mi certificación en un de estos cursos. &lt;strong&gt;Actívate ya !&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;figure style=&quot;width: 100%&quot; class=&quot;align-center&quot;&gt;
-  &lt;img src=&quot;https://eduardo-cabrera.github.io/images/apps-moviles.jpg&quot; alt=&quot;curso google activate Eduardo Cabrera Blázquez&quot; /&gt;
-  &lt;figcaption&gt;Curso Google / Complutense.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;&lt;span style=&quot;color:blue&quot;&gt; aqui tienes el acceso a  &lt;a target=&quot;_blank&quot; href=&quot;https://www.google.es/landing/activate/home&quot;&gt;&lt;strong&gt;Google activate&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;div&gt;
- 
-&lt;/div&gt;</content><author><name></name></author><category term="Cursos" /><category term="Google Activate" /><category term="Eduardo" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/activate.jpg" /></entry></feed>
+&lt;/div&gt;</content><author><name></name></author><category term="Peliculas" /><category term="Orson Welles" /><category term="Cine Clasico" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/Citizen_Kane_poster.jpg" /></entry></feed>
