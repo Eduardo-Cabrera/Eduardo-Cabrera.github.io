@@ -1,0 +1,52 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html style="scroll-behavior: smooth;">
+{% include head.html %}
+<body id="posts" class="inner-post-page">
+
+     
+          
+    <div class="block-left">
+    
+     
+            
+      <div class="content">
+        <a href="{{ site.url }}" class="logo"><img src="{{ site.url }}/images/{{ site.logo | replace: '.', '-small.' }}" alt="El blog de Eduardo Cabrera"></a>
+{% include top-links-tags-verde.html %}
+<div class="botonesportada">
+<a class="botonesportada" href="#contenido-cat"><img border="0"  src="../images/go.png"></a>
+</br>
+ </div> 
+ 
+
+
+      
+    
+        
+      </div>
+    </div>
+
+    <div class="block-right "style="background-color: #bad3b8 "">
+      <div class="share-buttons">
+        {% include share.html %}
+      </div>
+      
+      
+      {% include top-links-tags-gris.html %}
+      <a name="contenido-cat">
+      <div class="inner-post content">
+        <div class="date-highlight">{% if page.date %}{{ page.date | date: '%d %b %Y' }}{% else %}&#x2756;{% endif %}</div>
+        {{ content }}
+        </br>
+        </br>
+        {% include share.html %}
+        {% include page-pagination.html %}
+      </div>
+    </div>
+    {% include scripts.html %}
+    {% include overlay.html %}
+</body>
+</html>
