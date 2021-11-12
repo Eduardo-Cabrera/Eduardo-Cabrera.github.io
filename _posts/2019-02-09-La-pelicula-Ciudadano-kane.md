@@ -37,7 +37,7 @@ Un importante magnate estadounidense, Charles Foster Kane, dueño de una importa
 
 <br/>
 
-<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.0067%;"><iframe src="https://ok.ru/videoembed/1159917931103" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen allow="autoplay; encrypted-media"></iframe></div>
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.0067%;"><iframe src="https://ok.ru/videoembed/1159917931103" style="border: 0; top: 0; left: 0; width: 640; height: 360; position: absolute;" allowfullscreen allow="autoplay; encrypted-media"></iframe></div>
 
 <br/>
 

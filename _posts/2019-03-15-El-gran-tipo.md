@@ -37,8 +37,9 @@ div {
 <br/>
 
 
-
-<iframe width="560" height="315" src="//ok.ru/videoembed/2397872392846" frameborder="0" allow="autoplay" allowfullscreen></iframe>
+<div style="left: 0; width: 100%; height: 0; position: relative; overflow: hidden; padding-bottom: 56.0067%;">
+<iframe width="640" height="360" src="//ok.ru/videoembed/2397872392846" style="border: 0; top: 0; left: 0;right: 0;  width: 100%;height: 100%; position: absolute; top: 0;
+  " allowfullscreen allow="autoplay; encrypted-media"></iframe></div>
 
 <br/>
 
