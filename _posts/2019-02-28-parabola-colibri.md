@@ -20,7 +20,7 @@ tags:
 
 
 # La Parábola del Colibrí
-{: style="color:#773502;  text-align: center;"} 
+{: style="color:#773502;  text-align: center;font-size:200%"} 
 
  
 

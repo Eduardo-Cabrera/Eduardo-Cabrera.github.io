@@ -8,7 +8,6 @@ categories:
   - Titulos
 tags:
   - Cursos
-  - Google Activate
   - Eduardo
 ---
 

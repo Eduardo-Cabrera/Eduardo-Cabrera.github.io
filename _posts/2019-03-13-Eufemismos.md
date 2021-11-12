@@ -20,11 +20,11 @@ tags:
 
 
 # Repasando los eufemismos
-{: style="color:#21437a;  text-align: center;"} 
+{: style="color:#21437a;  text-align: center;font-size:200%"} 
 
 <a name="inicio-articulo">
  <figure style="width: 70%" class="align-center">
-  <img src="https://eduardo-cabrera.github.io/images/eufemismo.png" alt="">
+  <img src="https://eduardo-cabrera.github.io/images/eufemismo.png" style="max-width: 100%" alt="">
   </figure> 
  
 
