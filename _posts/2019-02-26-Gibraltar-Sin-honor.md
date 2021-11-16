@@ -6,9 +6,8 @@ image: images/gibraltar-0.jpg
 
 
 categories:
-  - Lugares
+  - España
 tags:
-  - Lugares
   - España
   - Política
 ---
@@ -95,7 +94,7 @@ eso en esta ocasión, pero si quiero mencionar que anteriormente y al igual que 
 {: style="color:#202e44;  text-align: justify;"} 
 
 <figure style="width: 100%" class="align-center">
-  <img src="/images/gibraltar-6.jpg" style="max-width: 100%"alt="">
+  <img src="/images/gibraltar-6.jpg"  alt="">
   </figure> 
 
 <br />
